@@ -1,6 +1,6 @@
 {
 
-	"config_file" : "http://104.243.28.117:8000/config.json" ,
+	"config_file" : "https://raw.githubusercontent.com/beplayapp/bpdesk/main/app/config.json" ,
 	"index" : [
 			{"title" : "官方首页" , "link" : "http://www.beplay.com/"},
 			{"title" : "体育投注" , "link" : "http://www.beplay.com/zh-cn/sportsbook/"},
