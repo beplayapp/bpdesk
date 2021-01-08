@@ -1,0 +1,10 @@
+{
+
+	"config_file" : "http://104.243.28.117:8000/config.json" ,
+	"index" : [
+			{"title" : "官方首页" , "link" : "http://www.beplay.com/"},
+			{"title" : "体育投注" , "link" : "http://www.beplay.com/zh-cn/sportsbook/"},
+			{"title" : "APP下载" , "link" : "http://www.beplay.com/zh-cn/mobile/"},
+			{"title" : "在线客服" , "link" : "https://secure.livechatinc.com/licence/8989490/v2/open_chat.cgi?groups=0"}
+	]
+}
