@@ -2,6 +2,7 @@
 
 	"config_file" : "https://raw.githubusercontent.com/beplayapp/bpdesk/main/app/config.json" ,
 	"config_proxy" : "127.0.0.1:10807" ,
+	"config_proxy_socks" : "127.0.0.1:10808" ,
 	"config_testurl" : "http://www.beplay.com/zh-cn/default.aspx" ,
 	"index" : [
 			{"title" : "官方首页" , "link" : "http://www.beplay.com/"},
