@@ -1,7 +1,7 @@
 Beplay体育Windows绿色版(1.2.8)
 下载地址：
 
-BePlay体育MacOS安装板
+BePlay体育MacOS安装版
 下载地址：
 
 
